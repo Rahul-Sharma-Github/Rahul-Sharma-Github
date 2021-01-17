@@ -11,7 +11,7 @@
 #
 ## 📫  How to reach me -
 * [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) 
-* [Instagram - @narayanvyas87](https://instagram.com/narayanvyas87)
+* [Instagram - @rahul_sharma_3258](https://www.instagram.com/rahul_sharma_3258/)
 * [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
 # 
 # 
