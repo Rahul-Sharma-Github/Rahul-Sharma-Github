@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - ⚡ I am Always Ready to Learn something New & ready to Adapt New WEB Technologies.
 #
@@ -9,13 +9,13 @@
 - 💬 Ask me about - Web, Hosting, getting a Domain & More ...
 #
 #
-## 📫 How to reach me:
+## 📫 How to reach me -
 * [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) 
 * [Instagram - @narayanvyas87](https://instagram.com/narayanvyas87)
 * [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
 # 
 # 
-# :gear: Technologies & Skills i Have - 
+# 👷‍♂️ Technologies & Skills i Have -
 - JavaScript ( Vanilla/Pure JavaScript + ES6 Concepts + ES7 Concepts *Learning )
 # 
 # 
