@@ -15,7 +15,7 @@
 * [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
 # 
 # 
-# Technologies & Skills i Have - 
+# :gear: Technologies & Skills i Have - 
 - JavaScript ( Vanilla/Pure JavaScript + ES6 Concepts + ES7 Concepts *Learning )
 # 
 # 
