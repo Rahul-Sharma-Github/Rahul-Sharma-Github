@@ -12,7 +12,7 @@
 ## 📫  How to reach me -
 * [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) 
 * [Instagram - @rahul_sharma_3258](https://www.instagram.com/rahul_sharma_3258/)
-* [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
+* [Linkedin - @rahul-sharma-833b981b8](https://www.linkedin.com/in/rahul-sharma-833b981b8/)
 # 
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
