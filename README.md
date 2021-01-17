@@ -9,7 +9,7 @@
 - 💬 Ask me about - Web, Hosting, getting a Domain & More ...
 #
 #
-- 📫 How to reach me:
+## - 📫 How to reach me:
 * [Facebook - @narayanvyas87](https://facebook.com/narayanvyas87) 
 * [Instagram - @narayanvyas87](https://instagram.com/narayanvyas87)
 * [Linkedin - @narayanvyas87](https://www.linkedin.com/in/narayanvyas87/)
