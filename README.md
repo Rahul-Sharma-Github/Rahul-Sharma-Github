@@ -16,6 +16,10 @@
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
 - JavaScript ( Vanilla/Pure JavaScript + ES6 Concepts + ES7 Concepts *Learning )
+- CSS3
+- HTML5
+- AJAX
+- BootStrap CSS Framework
 # 
 # 
 ## ⚒ My Work/Projects
