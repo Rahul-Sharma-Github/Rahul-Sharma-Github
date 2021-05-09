@@ -2,7 +2,7 @@
 
 - ⚡ I am Always Ready to Learn something New & ready to Adapt New WEB Technologies.
 #
-- 🔭 I’m currently working on few Web-Development Projects
+- 🔭 I’m currently working on few Web-Development Projects + Learning Java Programming + Learning RDBMS + MYSQL  ..!
 - 🌱 I’m currently learning Advance JavaScript, Java ( Servlet, JSP ) & More ...
 - 👯 I’m looking to collaborate on Web-Development Projects (One-Page Websites, Landing Pages, Tutorial Websites, and More ... )
 - 🤔 I’m looking for help with Web Content-Creater & Data Entry Operator on Website
