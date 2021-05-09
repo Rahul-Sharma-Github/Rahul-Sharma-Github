@@ -2,8 +2,8 @@
 
 - ⚡ I am Always Ready to Learn something New & ready to Adapt New WEB Technologies.
 #
-- 🔭 I’m currently working on few Web-Development Projects + Learning Java Programming + Learning RDBMS + MYSQL  ..!
-- 🌱 I’m currently learning Advance JavaScript, Java ( Servlet, JSP ) & More ...
+- 🔭 I’m currently working on few Web-Development Projects  ..!
+- 🌱 I’m currently learning Advance JavaScript, Java ( Servlet, JSP ) + Learning Core Java Programming + Learning RDBMS + MYSQL ...
 - 👯 I’m looking to collaborate on Web-Development Projects (One-Page Websites, Landing Pages, Tutorial Websites, and More ... )
 - 🤔 I’m looking for help with Web Content-Creater & Data Entry Operator on Website
 - 💬 Ask me about - Web, Hosting, getting a Domain & More ...
@@ -15,6 +15,7 @@
 # 
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
+- Java Pragramming (Core + Advance) with Data Structure
 - JavaScript ( Vanilla/Pure JavaScript + ES6 Concepts + ES7 Concepts *Learning )
 - CSS3
 - HTML5
