@@ -1,12 +1,18 @@
 ## Hi there 👋
 
 - ⚡ I am Always Ready to Learn something New & ready to Adapt New Technologies.
+- #
+-   ⚡Learning and Sharpening skills in –
+-   
+-     👷‍App Development Technologies –
+- 	
+-       [ Cross-Platform App Development (Flutter Framework + Dart OOPs Language) & Android App Development using Java Language ]
 #
-- 🔭 I’m currently working on few Web-Development Projects & Learning About Data Structure + Algorithms ..!
-- 🌱 I’m currently learning Advance JavaScript, Java ( Servlet, JSP ) + Learning Core Java Programming + Learning RDBMS + MYSQL ...
-- 👯 I’m looking to collaborate on Web-Development Projects (One-Page Websites, Landing Pages, Tutorial Websites, and More ... )
-- 🤔 I’m looking for help with Web Content-Creater & Data Entry Operator on Website
-- 💬 Ask me about - Web, Hosting, getting a Domain & More ...
+#
+#
+- 🔭 Working on App Development [Flutter & Dart] , Web Development and More... 
+- 👯 I’m looking to collaborate on App Development & Web-Development Projects.
+- 💬 Ask me about - Web Development, Cross-Platform App Development using Flutter & Dart ......
 #
 #
 ## 📫 How to reach me -
@@ -15,12 +21,10 @@
 # 
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
-- Java Pragramming (Core + Advance) with ( Data Structure + Algorithms )
-- JavaScript ( Vanilla/Pure JavaScript + ES6 Concepts + ES7 Concepts *Learning )
-- CSS3
-- HTML5
-- AJAX
-- BootStrap CSS Framework
+- Flutter Framework & Dart OOPs Language [Cross-Platform App Development]
+- Java for Android App Development.
+- HTML, CSS, JavaScript, Bootstrap, Ajax, JSON.
+-  C, C++ etc. 
 # 
 # 
 ## ⚒ My Work/Projects
