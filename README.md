@@ -15,7 +15,7 @@
 #
 ## 📫 How to reach me -
 * [Instagram - @rahul_sharma_3258](https://www.instagram.com/rahul_sharma_3258/)
-* [Linkedin - @rahul-sharma-833b981b8](https://www.linkedin.com/in/rahul-sharma-833b981b8/)
+* [Linkedin - @rahul-sharma-833b981b8](https://www.linkedin.com/in/rahul-sharma-b03039143/)
 # 
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
