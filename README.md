@@ -5,11 +5,11 @@
 ## ⚡Learning and Sharpening skills in –
 ###   👷‍App Development Technologies – 
 -   ( Cross-Platform App Development (Flutter Framework + Dart OOPs Language) )
--   ( Android App Development using Java Language )
+-   ( Android & iOS App Development )
 #
 #
 - 🔭 Working on App Development [Flutter & Dart] , Web Development and More... 
-- 👯 I’m looking to collaborate on App Development & Web-Development Projects.
+- 👯 I’m looking to collaborate on App Development Projects.
 - 💬 Ask me about - Web Development, Cross-Platform App Development using Flutter & Dart ......
 #
 #
@@ -20,14 +20,12 @@
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
 - Flutter Framework & Dart OOPs Language [Cross-Platform App Development]
-- Java for Android App Development.
+- Android & iOS App Development.
 - HTML, CSS, JavaScript, Bootstrap, Ajax, JSON.
--  C, C++ etc. 
+-  C, C++, java, Python etc. 
 # 
 # 
 ## ⚒ My Work/Projects
-### Websites I Have Made So Far -
-- [InterPrep - Interview Preparation Website ](https://rahul-sharma-github.github.io/Interview-Preparation-Website/)
-- [My Portfolio - Personal Portfolio Website ](https://rahul-sharma-github.github.io/My-Portfolio/)
+### JUST CHECK MY REPOSITORIES
 
 
