@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⚡ I am Always Ready to Learn something New & ready to Adapt New Technologies.
+- ⚡ Currently working on some flutter projects.
 # 
 ## ⚡Learning and Sharpening skills in –
 ###   👷‍App Development Technologies – 
@@ -26,6 +26,6 @@
 # 
 # 
 ## ⚒ My Work/Projects
-### JUST CHECK MY REPOSITORIES
+### CHECK MY REPOSITORIES
 
 
