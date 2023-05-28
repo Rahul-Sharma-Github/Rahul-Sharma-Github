@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⚡ Currently working on some flutter projects.
+- ⚡ Currently working on some flutter projects with GetX State Management Microframework.
 # 
 ## ⚡Learning and Sharpening skills in –
 ###   👷‍App Development Technologies – 
