@@ -8,6 +8,7 @@
 -   ( Android & iOS App Development )
 -   ( Flutter GetX State Management )
 -   ( Firebase Backend-as-a-Service (BaaS) )
+-   ( API Data Handling )
 #
 #
 - 🔭 Working on App Development [Flutter & Dart] ... 
