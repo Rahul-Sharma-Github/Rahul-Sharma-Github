@@ -20,6 +20,9 @@
 # 
 ## 👷‍♂️ Technologies & Skills i Have -
 - Flutter Framework & Dart OOPs Language [Cross-Platform App Development]
+- Getx State Management in Flutter
+- Route Management in Flutter project
+- Firebase Integration for Backend & Authentication in Flutter
 - Android & iOS App Development.
 - HTML, CSS, JavaScript, Bootstrap, Ajax, JSON.
 -  C, C++, java, Python etc. 
