@@ -6,6 +6,8 @@
 ###   👷‍App Development Technologies – 
 -   ( Cross-Platform App Development (Flutter Framework + Dart OOPs Language) )
 -   ( Android & iOS App Development )
+-   ( Flutter GetX State Management )
+-   ( Firebase Backend-as-a-Service (BaaS) )
 #
 #
 - 🔭 Working on App Development [Flutter & Dart] ... 
