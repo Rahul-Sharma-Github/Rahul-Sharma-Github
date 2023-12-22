@@ -3,7 +3,7 @@
 - ⚡ Currently working on some Flutter Mobile App projects with GetX State Management Microframework and Firebase Backend Integration with Authentication. 
 ### Ongoing Flutter App Project =>
 - [ Bike Service App ] - ( Work in Progress ... )
-- See Project  =>
+- See Project UI =>
 - ( https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=0%3A1&mode=design&t=wINO4OIsEVppsyFe-1 )
 # 
 ## ⚡Learning and Sharpening skills in –
