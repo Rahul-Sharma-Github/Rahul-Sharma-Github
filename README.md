@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⚡ Currently working on some Flutter projects with GetX State Management Microframework and Firebase Backend Integration with Authentication.
+- ⚡ Currently working on some Flutter Mobile App projects with GetX State Management Microframework and Firebase Backend Integration with Authentication.
 # 
 ## ⚡Learning and Sharpening skills in –
 ###   👷‍App Development Technologies – 
