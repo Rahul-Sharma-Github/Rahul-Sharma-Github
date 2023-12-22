@@ -7,12 +7,16 @@
 - ( https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=0%3A1&mode=design&t=wINO4OIsEVppsyFe-1 )
 #
 #
+## 👷 My RESUME => [Resume - Rahul Sharma.pdf](https://github.com/Rahul-Sharma-Github/Rahul-Sharma-Github/files/13753702/Resume.-.Rahul.Sharma.pdf)
+
+#
+#
 ## ⚒ My Work/Projects
 ### CHECK MY REPOSITORIES
 #
 #
 ## ⚡Learning and Sharpening skills in –
-###   👷‍App Development Technologies – 
+###   ‍App Development Technologies – 
 -   ( Cross-Platform App Development (Flutter Framework + Dart OOPs Language) )
 -   ( Android & iOS App Development )
 -   ( Flutter GetX State Management )
