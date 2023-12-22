@@ -6,6 +6,9 @@
 - See Project UI =>
 - ( https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=0%3A1&mode=design&t=wINO4OIsEVppsyFe-1 )
 # 
+## ⚒ My Work/Projects
+### CHECK MY REPOSITORIES
+#
 ## ⚡Learning and Sharpening skills in –
 ###   👷‍App Development Technologies – 
 -   ( Cross-Platform App Development (Flutter Framework + Dart OOPs Language) )
@@ -20,17 +23,5 @@
 * [Linkedin - @rahul-sharma-833b981b8](https://www.linkedin.com/in/rahul-sharma-b03039143/)
 # 
 # 
-## 👷‍♂️ Technologies & Skills i Have -
-- Flutter Framework & Dart OOPs Language [Cross-Platform App Development]
-- Getx State Management in Flutter
-- Route Management in Flutter project
-- Firebase Integration for Backend & Authentication in Flutter
-- Android & iOS App Development.
-- HTML, CSS, JavaScript, Bootstrap, Ajax, JSON.
--  C, C++, java, Python etc. 
-# 
-# 
-## ⚒ My Work/Projects
-### CHECK MY REPOSITORIES
 
 
