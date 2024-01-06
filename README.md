@@ -8,9 +8,8 @@
 - [ Bike Service App ] - ( Work in Progress ... )
   - [See Project UI](https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=0%3A1&mode=design&t=wINO4OIsEVppsyFe-1)
   - [See Project User Flow](https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=56%3A52&mode=design&t=IjWCud1NxeCFLruT-1)
-  - [See Project Data Storage Structure](https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=73%3A52&mode=design&t=ichM1kuWZKiumshx-1)
- 
-  - - [See Project Source Code](https://github.com/Rahul-Sharma-Github/Bike-Service-App)
+  - [See Project Data Storage Structure](https://www.figma.com/file/TRROvECJsZPQpHpFB3q8yV/Design?type=design&node-id=73%3A52&mode=design&t=ichM1kuWZKiumshx-1) 
+  - [See Project Source Code](https://github.com/Rahul-Sharma-Github/Bike-Service-App)
 #
 #
 ## 👷 My RESUME => [Resume - Rahul Sharma.pdf](https://github.com/Rahul-Sharma-Github/Rahul-Sharma-Github/files/13753702/Resume.-.Rahul.Sharma.pdf)
