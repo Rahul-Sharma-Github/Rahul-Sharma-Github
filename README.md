@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### [  **Looking for Flutter Development Intership/Job**  ]
 # 
-- ⚡ Currently working on some Flutter Mobile App projects with GetX State Management Microframework and Firebase Backend Integration with Authentication.
+- ⚡ Currently working on some Flutter Mobile App projects based on Clean Architecture with GetX State Management Microframework and Firebase Backend Integration with Authentication & Database.
 # 
 # 
 ### Ongoing Flutter App Project =>
@@ -24,6 +24,7 @@
 ###   ‍App Development Technologies – 
 -   ( Cross-Platform App Development (Flutter Framework + Dart OOPs Language) )
 -   ( Android & iOS App Development )
+-   ( Clean Architecture )
 -   ( Flutter GetX State Management )
 -   ( Firebase Backend-as-a-Service (BaaS) )
 -   ( API Data Handling )
