@@ -21,7 +21,7 @@
 #
 #
 ## 👷 My RESUME => 
-[Resume - Rahul Sharma.pdf](https://github.com/Rahul-Sharma-Github/Rahul-Sharma-Github/files/13856660/Resume.-.Rahul.Sharma.pdf)
+#### [Resume - Rahul Sharma.pdf](https://github.com/Rahul-Sharma-Github/Rahul-Sharma-Github/files/13856660/Resume.-.Rahul.Sharma.pdf)
 
 #
 #
