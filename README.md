@@ -16,7 +16,7 @@
   - [See Project Source Code](https://github.com/Rahul-Sharma-Github/Bike-Service-App)
 #
 - [ Jumbo Foods App ] - ( Work in Progress ... )
-  - [See Project UI](https://github.com/Rahul-Sharma-Github/jumbo_foods_app)
+  - [See Project](https://github.com/Rahul-Sharma-Github/jumbo_foods_app)
 #
 #
 ## 👷 My RESUME => [Resume - Rahul Sharma.pdf](https://github.com/Rahul-Sharma-Github/Rahul-Sharma-Github/files/13856660/Resume.-.Rahul.Sharma.pdf)
