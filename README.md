@@ -5,7 +5,7 @@
 
 - Clean Architecture with GetX State Management Microframework
 - Firebase Backend Integration with Authentication & Firebase Firestore Database
--and also with NodeJS Custom Backend API with ExpressJs, MongoDB with mongoose etc.
+- and also with NodeJS Custom Backend API with ExpressJs, MongoDB with mongoose etc.
 # 
 # 
 ### Ongoing Flutter App Project =>
