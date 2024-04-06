@@ -1,5 +1,5 @@
 ## Hi there 👋
-### [  **Looking for Flutter Development Intership/Job**  ]
+### [  **Looking for Flutter Development Intership / Entry Level Job**  ]
 # 
 ⚡ Currently working on some Flutter Mobile App projects based on = 
 
