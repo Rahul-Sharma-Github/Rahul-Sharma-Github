@@ -3,9 +3,9 @@
 # 
 - ⚡ Currently working on some Flutter Mobile App projects based on = 
 
-- Clean Architecture with GetX State Management Microframework
-- Firebase Backend Integration with Authentication & Firebase Firestore Database
-- and also with NodeJS Custom Backend API with ExpressJs, MongoDB with mongoose etc.
+ - Clean Architecture with GetX State Management Microframework
+ - Firebase Backend Integration with Authentication & Firebase Firestore Database
+ - and also with NodeJS Custom Backend API with ExpressJs, MongoDB with mongoose etc.
 # 
 # 
 ### Ongoing Flutter App Project =>
