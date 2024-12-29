@@ -41,7 +41,7 @@
 #
 #
 ## 📫 How to reach me -
-* [Gmail - rahulsharma3258work@gmail.com](rahulsharma3258work@gmail.com)
+
 * [Linkedin - @rahul-sharma-833b981b8](https://www.linkedin.com/in/rahul-sharma-b03039143/)
 * [Instagram - @rahul_sharma_3258](https://www.instagram.com/rahul_sharma_3258/)
 # 
