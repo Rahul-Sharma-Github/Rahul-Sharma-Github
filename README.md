@@ -21,7 +21,7 @@
 #
 #
 ## 👷 My RESUME => 
-### [Rahul Sharma-Resume.pdf](https://github.com/user-attachments/files/17110090/Rahul.Sharma-Resume.pdf)
+### [Rahul Sharma - Resume.pdf](https://github.com/user-attachments/files/17110090/Rahul.Sharma-Resume.pdf)
 
 #
 #
