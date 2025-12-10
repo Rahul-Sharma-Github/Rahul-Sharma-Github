@@ -13,7 +13,7 @@ AWS Cloud Practitioner Essentials — Amazon Web Services (AWS Skill Builder)
 - Performing hands-on Builder Labs to understand AWS console navigation, resource deployment, and cost estimation.
 
     
-### Technical Skills
+## Technical Skills
 - Cloud Technologies: AWS (EC2, S3, IAM, VPC, CloudWatch) – Learning & Practicing through Labs
 - Programming Languages: Dart, JavaScript, Java, C/C++
 - Frameworks: Flutter, Node.js, Express.js
