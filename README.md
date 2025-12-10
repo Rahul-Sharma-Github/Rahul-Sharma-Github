@@ -7,7 +7,7 @@ Currently completing AWS foundational labs and building a personal GitHub portfo
   
 ## AWS Cloud Learning & Labs (In Progress)
 AWS Cloud Practitioner Essentials — Amazon Web Services (AWS Skill Builder)
-- GitHub Link -> https://github.com/Rahul-Sharma-Github/aws-cloud-labs
+- Repository Link -> https://github.com/Rahul-Sharma-Github/aws-cloud-labs
 
 - Learning theoretical concepts of AWS Core Services: EC2, S3, IAM, RDS, VPC.
 - Performing hands-on Builder Labs to understand AWS console navigation, resource deployment, and cost estimation.
