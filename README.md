@@ -5,7 +5,7 @@ Currently completing AWS foundational labs and building a personal GitHub portfo
 - Basic automation using AWS CLI
 - Secure configuration and cost awareness
   
-## Cloud Learning & Labs (In Progress)
+## AWS Cloud Learning & Labs (In Progress)
 AWS Cloud Practitioner Essentials — Amazon Web Services (AWS Skill Builder)
 - GitHub Link -> https://github.com/Rahul-Sharma-Github/aws-cloud-labs
 
@@ -13,7 +13,7 @@ AWS Cloud Practitioner Essentials — Amazon Web Services (AWS Skill Builder)
 - Performing hands-on Builder Labs to understand AWS console navigation, resource deployment, and cost estimation.
 
     
-## Technical Skills
+## Technical Skills ( Flutter App Developer )
 - Cloud Technologies: AWS (EC2, S3, IAM, VPC, CloudWatch) – Learning & Practicing through Labs
 - Programming Languages: Dart, JavaScript, Java, C/C++
 - Frameworks: Flutter, Node.js, Express.js
