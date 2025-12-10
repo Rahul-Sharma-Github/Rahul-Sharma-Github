@@ -11,10 +11,7 @@ AWS Cloud Practitioner Essentials — Amazon Web Services (AWS Skill Builder)
 
 - Learning theoretical concepts of AWS Core Services: EC2, S3, IAM, RDS, VPC.
 - Performing hands-on Builder Labs to understand AWS console navigation, resource deployment, and cost estimation.
-- Completed labs on:
-  - Introduction to Amazon VPC — Created custom VPC with public/private subnets, route tables, and gateways.
-  - Introduction to Amazon EC2 — Launched and configured a web server using User Data, managed security groups, resized instance, and tested termination protection.
-  - S3 Static Website Hosting (in progress).
+
     
 ### Technical Skills
 - Cloud Technologies: AWS (EC2, S3, IAM, VPC, CloudWatch) – Learning & Practicing through Labs
