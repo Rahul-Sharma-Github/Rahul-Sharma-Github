@@ -1,4 +1,4 @@
-## नमस्ते �:pray:
+## नमस्ते 🙏
 ## Current Focus
 Currently completing AWS foundational labs and building a personal GitHub portfolio of AWS projects to demonstrate practical skills in:
 - Instance management, networking, and cloud monitoring
